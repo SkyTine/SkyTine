@@ -1,6 +1,6 @@
-# SkyTine
+<h1 align="center">SkyTine</h1>
 
-### 😄 As an ordinary person, keep learning to do something useful
+<p align="center"><em>Keep learning. Try to make something useful.</em></p>
 
 <p align="center">
   <img height="160" alt="SkyTine's GitHub stats" src="./profile/stats.svg" />
