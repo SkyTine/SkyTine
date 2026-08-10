@@ -2,7 +2,7 @@
 
 ### 😄 As an ordinary person, keep learning to do something useful
 
-<img height="130" alt="SkyTine's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkyTine&theme=default" /><img height="130" alt="SkyTine's repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkyTine&theme=default" />
+<img height="130" alt="SkyTine's GitHub stats" src="./profile/stats.svg" /><img height="130" alt="SkyTine's top languages" src="./profile/top-langs.svg" />
 
 <!--
 
