@@ -2,7 +2,7 @@
 
 ### 😄 As an ordinary person, keep learning to do something useful
 
-<img height="130" alt="SkyTine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SkyTine&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img height="130" alt="SkyTine's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTine&count_private=true&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img height="130" alt="SkyTine's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkyTine&theme=default" /><img height="130" alt="SkyTine's repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkyTine&theme=default" />
 
 <!--
 
