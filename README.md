@@ -2,7 +2,10 @@
 
 ### 😄 As an ordinary person, keep learning to do something useful
 
-<img height="130" alt="SkyTine's GitHub stats" src="./profile/stats.svg" /><img height="130" alt="SkyTine's top languages" src="./profile/top-langs.svg" />
+<p align="center">
+  <img height="160" alt="SkyTine's GitHub stats" src="./profile/stats.svg" />
+  <img height="160" alt="SkyTine's top languages" src="./profile/top-langs.svg" />
+</p>
 
 <!--
 
