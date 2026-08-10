@@ -23,7 +23,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=false&hide_rank=true&include_all_commits=true&text_bold=false&title_color=0969da&text_color=57606a&border_color=d0d7de&bg_color=ffffff&border_radius=12&card_width=400
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate top languages card
@@ -32,7 +32,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&title_color=0969da&text_color=57606a&border_color=d0d7de&bg_color=ffffff&border_radius=12&card_width=400
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       - name: Apply custom language palette
